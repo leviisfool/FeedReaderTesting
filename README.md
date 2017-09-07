@@ -6,7 +6,7 @@ This is the Project of the Udacity Feed Reader Testing class.
 
 1. Get the code:
 
-git clone https://github.com/leviisfool/FeedReaderTesting.git
+    git clone https://github.com/leviisfool/FeedReaderTesting.git
 
 2. Run the code:
 
